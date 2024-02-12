@@ -1,0 +1,17 @@
+* {
+    font-size: 40px;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+li {
+    background-color: rgba(0, 225, 255, 0.863);
+    
+}
+
+a {
+    color: black;
+    background-color: white;
+}
